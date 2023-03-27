@@ -1,0 +1,113 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#pagina{
+    width: 100%;
+    height: auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+#menu {
+    width: 100%;
+    height: 30px;
+    background-color: #e8e6e6;
+    line-height: 30px;
+    text-align: left;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: rgb(255, 255, 255);
+    background: rgba(255, 255, 255, 0.7);
+
+    
+}
+a {
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 15px;
+}
+#links{
+    width: 90%;
+    height: auto;
+    background-color: #e8e6e6;
+    background-color: rgb(255, 255, 255);
+    background: rgba(255, 255, 255, 0.7);
+    margin: auto;
+    text-align: left;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#titulo{
+    width: 70%;
+    height: 0 auto;
+    background-color: #e8e6e6;
+    opacity: 0.8;
+    margin: auto;
+    text-align: center;
+    font-size:xx-large;
+}
+body {
+    background-image: url(/img/eilis-garvey-fhOQfT1eVEA-unsplash.jpg);
+    background-size:cover;
+}
+#espaco{
+    width: 100%;
+    height: 15px;
+}
+#p{
+    height: auto;
+    background-color: #e8e6e6;
+    text-align:left;
+    color: black;
+    size: 20px;
+    float:right;
+    line-height: auto;
+}
+#txt1{
+    width: 70%;
+    height: auto;
+    background-color: #e8e6e6;
+    background-color: rgb(255, 255, 255);
+    background: rgba(255, 255, 255, 0.7);
+    margin: auto;
+    text-align: center;
+}
+#titulo2{
+    width: 100%;
+    height: 0 auto;
+    background-color: #e8e6e6;
+    margin: auto;
+    text-align: center;
+    font-size:xx-large;
+    background-color: rgb(255, 255, 255);
+    background: rgba(255, 255, 255, 0.7);
+
+}
+#livros{
+    width: 100%;
+    height: auto;
+    float:left;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+    
+}
+.lv{
+    background-color: #e8e6e6;
+    width: 250PX;
+    height: auto;
+    float: left;
+    margin: 15px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(255, 255, 255);
+    background: rgba(255, 255, 255, 0.7);
+    
+}
+.lv img{
+    width: 200px;
+    
+}
+
